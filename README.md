@@ -1,2 +1,4 @@
 # dockerfiles
-My totally awesome collection of one dockerfile(s)
+
+My totally awesome (sorta) collection of one dockerfile(s) (more or
+less)
